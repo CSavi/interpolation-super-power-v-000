@@ -10,4 +10,4 @@ colors = ["R", "O", "Y", "G", "B", "I", "V"]
   puts "#{colors[5]}"
   puts "#{colors[6]}"
 
-end
+
