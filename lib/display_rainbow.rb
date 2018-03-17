@@ -11,4 +11,3 @@ colors = ["R", "O", "Y", "G", "B", "I", "V"]
   puts "#{colors[6]}"
 
 end
-display_rainbow(yellow)
